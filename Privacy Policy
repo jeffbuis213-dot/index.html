@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nutzungsbedingungen</title>
+</head>
+<body>
+    <h1>Nutzungsbedingungen</h1>
+    <p>Willkommen bei unserer App. Diese Nutzungsbedingungen regeln die Nutzung unserer App und der damit verbundenen Funktionen.</p>
+
+    <h2>1. Nutzung der TikTok API</h2>
+    <p>Unsere App nutzt die TikTok API, um Videos auf TikTok hochzuladen. Wir sammeln keine personenbezogenen Daten und speichern keine Informationen über Ihre TikTok-Nutzung.</p>
+
+    <h2>2. Haftung</h2>
+    <p>Wir übernehmen keine Verantwortung für die Inhalte, die auf TikTok hochgeladen werden, sowie für alle rechtlichen oder technischen Probleme, die mit der Nutzung von TikTok und der API verbunden sind.</p>
+
+    <h2>3. Datenschutz</h2>
+    <p>Unsere App sammelt keine persönlichen Daten von Nutzern. Alle Interaktionen erfolgen direkt mit der TikTok-Plattform. Bitte beachten Sie die Datenschutzrichtlinien von TikTok für detaillierte Informationen.</p>
+
+    <h2>4. Änderungen der Bedingungen</h2>
+    <p>Wir behalten uns das Recht vor, diese Nutzungsbedingungen jederzeit zu ändern. Alle Änderungen werden hier veröffentlicht.</p>
+</body>
+</html>
